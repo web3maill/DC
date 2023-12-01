@@ -1,12 +1,12 @@
 BOT_TOKEN: 
-  - ODE3MzkzOTQ4xxxxxxxxxxxxxxxxxxxx
-  - ODk1NTEyMDExxxxxxxxxxxxxxxxxxxxx
+  - 
 CHANNEL_ID: 
-  - 10300xxxxxxxxxxxxxx
-  - 87751xxxxxxxxxxxxxx
-MODE: custom
+  - 
+  - 
+  - 
+MODE: quote
 REPLY: 
 SIMSIMI_LANG: en
 DELAY: 11
-DEL_AFTER: 11
+DEL_AFTER: Y
 REPOST_LAST_CHAT: 100
